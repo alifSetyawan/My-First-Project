@@ -1,2 +1,1 @@
-# My-First-Project
-This is my first project
+# dasar-Javascript
